@@ -1,6 +1,7 @@
 
 def create_an_empty_array
 emty_array = []
+array_4_elements = ["cat","dog","lion","wild dogs"]
 end
 
 def create_an_array
