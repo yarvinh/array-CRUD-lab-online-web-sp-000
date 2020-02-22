@@ -1,6 +1,6 @@
 
 def create_an_empty_array
-
+emty_array = []
 end
 
 def create_an_array
@@ -34,5 +34,3 @@ end
 def retrieve_last_element_from_array(array)
 
 end
-
-return create_an_empty_array = []
