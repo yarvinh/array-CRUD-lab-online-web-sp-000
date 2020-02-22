@@ -1,11 +1,10 @@
 
 def create_an_empty_array
 return emty_array = []
-array_4_elements = ["cat","dog","lion","wild dogs"]
 end
 
 def create_an_array
-
+     array = ["cats","dogs", "lions", "wild dogs"]
 end
 
 def add_element_to_end_of_array(array, element)
